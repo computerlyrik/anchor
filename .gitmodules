@@ -1,0 +1,3 @@
+[submodule "Sisulator"]
+	path = Sisulator
+	url = git@github.com:computerlyrik/anchor-sisulator.git
